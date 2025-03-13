@@ -9,11 +9,11 @@
 1. Clone este repositório:
 
 ```bash
-  git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/Carloss-Dev/slides-aula-15-03-2025.git
 ```
 
 ```bash
-   cd seu-repositorio
+   cd slides-aula-15-03-2025.git
 ```
 
 2. Intale as dependências
