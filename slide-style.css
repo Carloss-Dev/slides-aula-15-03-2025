@@ -1,0 +1,19 @@
+.apresentation-area {
+  display: flex;
+  align-items: center;
+  img {
+    width: 40%;
+  }
+}
+
+.apresentation-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 70%;
+  align-items: flex-start;
+
+  li {
+    font-size: 25px;
+  }
+}
